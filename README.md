@@ -2,12 +2,7 @@
 I used https://start.spring.io/ as a starter with this settings                    
                                                                                  Dependencies :
   Maven Project                 Java                                             Spring Web                                  
+                                  
+  Packaging : War
 
-                                                2.54
-
-
-
-
-Packaging : War
-
-Java : 11
+  Java : 11
